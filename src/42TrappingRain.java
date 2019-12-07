@@ -2,7 +2,7 @@
 
 42. Trapping Rain Water
 https://leetcode.com/problems/trapping-rain-water/description/
-
+Explanation: https://www.youtube.com/watch?v=HmBbcDiJapY
 */
 
 class Solution {
